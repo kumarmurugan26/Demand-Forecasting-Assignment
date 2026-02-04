@@ -1,2 +1,3 @@
 # Demand-Forecasting-Assignment
-Academic assignment code repository. Detailed documentation will be added after assessment completion.
+ Detailed documentation will be added after assessment completion.
+APPLICATION OF COMPUTATIONAL NUMERICAL TECHNIQUES FOR DEMAND FORECASTING IN ENGINEERING MANAGEMENT 
